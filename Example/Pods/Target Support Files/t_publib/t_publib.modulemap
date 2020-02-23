@@ -1,0 +1,6 @@
+framework module t_publib {
+  umbrella header "t_publib-umbrella.h"
+
+  export *
+  module * { export * }
+}

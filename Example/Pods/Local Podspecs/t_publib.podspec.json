@@ -1,0 +1,27 @@
+{
+  "name": "t_publib",
+  "version": "0.1.0",
+  "summary": "A short description of t_publib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangyuliang/t_publib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyuliang": "wangyuliang@100tal.com"
+  },
+  "source": {
+    "git": "https://github.com/wangyuliang/t_publib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "t_publib/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}
