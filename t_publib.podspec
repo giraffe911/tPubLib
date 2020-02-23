@@ -24,7 +24,7 @@ TODO:just practice to create a t_publib for studying,just practice to create a t
   s.homepage         = 'https://github.com/giraffe911/tPubLib/tree/master'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'wangyuliang' => 'wangyuliang@100tal.com' }
+  s.author           = { 'wangyuliang' => '407134358@qq.com' }
   s.source           = { :git => 'https://github.com/giraffe911/tPubLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
