@@ -25,7 +25,7 @@ TODO:just practice to create a t_publib for studying,just practice to create a t
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wangyuliang' => 'wangyuliang@100tal.com' }
-  s.source           = { :git => 'https://github.com/giraffe911/t_publib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/giraffe911/tPubLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
